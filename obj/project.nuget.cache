@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydFyrxcODTDgUwgp4dWl2ui4qM0T+zMRpGAWqag+tkPWGHIO4+4JkaVVYbZjMCAlzd5pmcvAe3a5+f0ZsrVLOw==",
+  "success": true,
+  "projectFilePath": "D:\\Copy disc E\\Programms\\Prog lang\\Laba2\\Laba2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\oxyplot.core.drawing\\2.1.0\\oxyplot.core.drawing.2.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
